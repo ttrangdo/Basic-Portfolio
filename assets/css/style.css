@@ -1,0 +1,202 @@
+/* about me page */
+
+
+header {
+    background: #ffffff;
+    border-style:solid;
+    border-color: #ccc;
+    color: white;
+    vertical-align: middle;
+    border-bottom: 5px;
+    
+
+}
+
+h1 {
+    background: #4aaaa5;
+    color: white;
+    float:left;
+    width: 10%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    height: 60px;
+   
+}
+
+#full {
+    background: #eee; 
+    width:100%;
+    overflow:auto;
+    clear: both;
+}
+
+nav {
+    background: #fff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    border-color:#cccc;
+    width: 100%;
+    overflow:auto;
+    clear: both; 
+    margin-right: 215px;
+    height: 60px;
+    
+
+
+}
+
+#division {
+    padding: 28px;
+    background: #ffffff;
+    float: right;
+    margin-right: 215px;
+
+
+
+}
+
+
+aside {
+    float: left;
+    background: #4aaaa5;
+    width: 10%;
+    height: 30px;
+    margin-left:215px;
+    padding: 20px;
+    border: 1px solid #eee;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+img {
+    float:left;
+    margin-right:20px;
+  
+    
+    
+}
+
+.container1 {
+   
+    width: 100%;
+    overflow: auto;
+    clear: both;
+    height: 100%;
+}
+
+#about-me {
+    background: #fff;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-left:215px;
+    margin-right:215px;
+    margin-top:25px;
+    height: 50px;
+    padding: 20px;
+}
+
+#main-bio {
+    background: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    border-color: #ddd;
+    float: right;
+    margin-left: 215px;
+    margin-right:215px;
+    margin-top:2px;
+    padding:20px;
+   
+}
+
+#footer {
+    background: #666666;
+    border-color: #4aaaa5;
+    font-size: 10px;
+    border-style: solid;
+    border-bottom: 5px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ccc;
+    text-align: center;
+    height: 40px;
+    width: 100%;
+
+}
+
+/* contact page*/
+
+#contact {
+    background: #fff;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-left:215px;
+    margin-right:215px;
+    margin-top:25px;
+    height: 50px;
+    padding: 20px;
+}
+
+#contact-form{
+    background: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    border-color: #ddd;
+    margin-left: 215px;
+    margin-right:215px;
+    margin-top:2px;
+    padding:20px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+}
+
+button {
+    background: #4aaaa5;
+    color: white;
+    padding: 5px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 80px;
+    margin-top: 20px;
+}
+
+/* porfolio page */
+
+#porfolio {
+    background: #fff;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-left:215px;
+    margin-right:215px;
+    margin-top:25px;
+    height: 50px;
+    padding: 20px;
+
+}
+
+#porfolio-page{
+    background: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    border-color: #ddd;
+    margin-left: 215px;
+    margin-right:215px;
+    margin-top:2px;
+    padding:20px;
+    overflow:auto;
+    
+}
+
+.bike {
+    position: relative;
+}
+.banner-text {
+    position: absolute;
+    text-align: center;
+    color: white;
+    background: #4aaaa5;
+    width: 360px;
+    top: 100px;
+    padding:20px;
+}
